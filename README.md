@@ -17,23 +17,32 @@ Simple port scanner built using Python, Scapy and Socket. Perfoms TCP and UDP po
 Scans the network using Ping.
 	
 	sudo python3 port_scanner.py 192.168.0.0/24 -net
-
-
+  
+&nbsp;
+  
 
 Scans the network using TCP
 	
 	sudo python3 port_scanner.py 192.168.0.0/24 -net
-
+  
+&nbsp;
+  
 
 Scans the target (192.168.0.23) UDP ports from 0 to 50
 	
 	sudo python3 port_scanner.py 192.168.0.23 -udp -port 0-50
+  
+&nbsp;
+  
 
 
 Scans the target (192.168.0.23) TCP ports from 0 to 65535
 
 	sudo python3 port_scanner.py 192.168.0.23
 
+&nbsp;
+
+ 
 
 
 Scans the target (192.168.0.23) TCP port 21
