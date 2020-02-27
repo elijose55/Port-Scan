@@ -22,7 +22,7 @@ Scans the network using Ping.
 
 Scans the network using TCP
 	
-	sudo python3 port_scanner.py 192.168.0.0/24 -net
+	sudo python3 port_scanner.py 192.168.0.0/24 -net2
   
 &nbsp;
   
