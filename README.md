@@ -11,7 +11,7 @@ Simple port scanner built using Python, Scapy and Socket. Perfoms TCP and UDP po
 
 	sudo python3 port_scanner.py [-h] [-tcp] [-udp] [-port PORT] [-net] [-net2] target
 	
-## Example
+## Examples
 
 Scans the network using Ping.
 	
