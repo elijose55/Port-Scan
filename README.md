@@ -3,10 +3,9 @@ Simple port scanner built using Python, Scapy and Socket. Perfoms TCP and UDP po
 
 ### Requirements
 
-	Python 3+
-	Scapy
-	Socket
-	Ping3
+   - Python 3+
+	
+    pip install -r requirements
 
 ## Usage
 
