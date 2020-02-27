@@ -5,7 +5,7 @@ Simple port scanner built using Python, Scapy and Socket. Perfoms TCP and UDP po
 
 	Python 3+
 	Scapy
-  Socket
+	Socket
 
 ## Usage
 
